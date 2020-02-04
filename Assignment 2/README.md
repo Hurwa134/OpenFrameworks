@@ -4,10 +4,9 @@
 
 ## C++ ##
 
-
 ## Description ##
 
-
+Here is a screenshot of my progress in the online learning portal, SoloLearn. I have completed Modules 1-6 of the C++ tutorial.  I think the exercises and quizzes are extremely helpful.
 
 ## Screenshots ##
 
