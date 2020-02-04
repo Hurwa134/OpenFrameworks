@@ -9,7 +9,7 @@
 
 
 
-## Screenhyhhshots ##
+## Screenshots ##
 
 <img width="1417" alt="Modules4-6 Screenshot" src="https://user-images.githubusercontent.com/53446399/73768203-9d444000-4746-11ea-9b00-d0f7fd57b1b1.png">
 
