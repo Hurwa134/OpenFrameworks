@@ -4,13 +4,13 @@
 
 ## C++ ##
 
+<img width="1417" alt="Modules4-6 Screenshot" src="https://user-images.githubusercontent.com/53446399/73768203-9d444000-4746-11ea-9b00-d0f7fd57b1b1.png">
+
 ## Description ##
 
-Here is a screenshot of my progress in the online learning portal, SoloLearn. I have completed Modules 1-6 of the C++ tutorial.  I think the exercises and quizzes are extremely helpful.
+Here is a program called "3D primitives" which illustrates shapes, materials, light sources, rotations etc. 
 
 ## Screenshots ##
-
-<img width="1417" alt="Modules4-6 Screenshot" src="https://user-images.githubusercontent.com/53446399/73768203-9d444000-4746-11ea-9b00-d0f7fd57b1b1.png">
 
 <img width="1266" alt="OpenFrameworksExample Screenshot" src="https://user-images.githubusercontent.com/53446399/73768354-d977a080-4746-11ea-8af3-b7f901cbe776.png">
 

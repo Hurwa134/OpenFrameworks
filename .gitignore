@@ -17,3 +17,5 @@ obj
 **/bin/*
 !**/bin/data/
 *Debug.app
+*/.DS_Store
+
