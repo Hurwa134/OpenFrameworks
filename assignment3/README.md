@@ -48,7 +48,7 @@ _*How will your translation achieve this?*_
 
 I will show new relationships and connections relating to music listening and being a fan of different genres by visually showing listening habits. The data visualization could show which artists are listened to most frequently,  as well as songs, and albums, or other data (time of day most listened to) that can be shown.
 
-Image
+I don't truly understand what is possible, but it would be nice to be able to click on different items and learn more about them, or have other pieces of data appear in the visualization when you hover or click on an icon.
 
 ![img](Images/PlaylistVisual.png)
 
