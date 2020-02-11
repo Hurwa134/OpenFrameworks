@@ -34,26 +34,23 @@ I think through an abstract visualization that the main tone and feeling of the 
 
 ## Project 2
 
-I would like to visualize a JSON data source relating to my Spotify playlist. OR somehow visualize a JSON data source related to horoscopes/astrology. 
+For Project 2 I want to visually map out relationships and data analytics related to my Spotify listening habits. 
 
-Short concept descriptions and drawings of potential directions.
-Drawings should describe any movement or interaction in the program.
+_*Who is the User?*_
 
-Who is the user? 
+Someone interested in seeing data visualization of their playlist analytics or who wants to better understand their music listening habits.
 
-Someone interested in seeing data visualization for music consumption. 
+_*What do you want them to experience?*_
 
-What do you want them to experience?
+The experience of being able to make connections through visual mapping and to be able to see data which is normally not thought about or apparent. 
 
-Curiosity, and the experience of visualizing data which is normally not thought about or apparent. 
+_*How will your translation achieve this?*_
 
-How will your translation achieve this?
-
-Visually mapping listening habits, amd showing which artists are listened to, as well as songs and albums. 
+I will show new relationships and connections relating to music listening and being a fan of different genres by visually showing listening habits. The data visualization could show which artists are listened to most frequently,  as well as songs, and albums, or other data (time of day most listened to) that can be shown.
 
 Image
 
-![img](Images/FourShapesStatic.png)
+![img](Images/PlaylistVisual.png)
 
 
 ## Project 3
