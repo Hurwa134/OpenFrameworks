@@ -1,42 +1,82 @@
 # Assignment 3
 
-## Project Conceptual Descriptions & Drawings
+Project Conceptual Descriptions & Drawings
 
-### Project 1
+## Project 1 : The Secret Garden
 
+An abstracted visualization of the story of The Secret Garden, in two simple scenes. 
 
-Short concept descriptions and drawings of potential directions 
-Drawings should describe any movement or interaction in the program.
+Scene 1: The first background is dark with a grey and black color palette. I want to make the whole project abstract, due to my novice coding skills. The main character is represented by a circle which is grey to represent her illness and mood. The circle goes through (or up to) a gate. Ominous or minor music plays.
 
-Answer:
-Who is the user?
+Image
 
-What do you want them to experience?
+![img](Images/FourShapesStatic.png)
+
+Image
+
+![img](Images/FourShapesStatic.png)
+
+Scene 2: In the second scene, the circle representing the main character has gone through the gate into the secret garden. There are colorful flowers (abstract shapes) and blue sky in the garden. The music playing changes from something minor to something major. The main character turns from grey to yellow to show that nature and the garden have healed her. 
+
+Image
+
+![img](Images/FourShapesStatic.png)
+
+Image
+
+![img](Images/FourShapesStatic.png)
+
+Who is the user? 
+
+The user could be a child, or anyone who is interested in an abstract visual telling of a children's story through basic shapes. 
+
+What do you want them to experience? 
+
+I want the user to experience the feeling of healing and transformation that the character in The Secret Garden experiences. In the story, the main character and her friend are both ill, and suffering. When they seek out the garden, being in nature helps them begin to heal, and when they finally enter the garden, they are rejuvinated and return to happiness and health. I want the experience of dark, grey colors and minor music to transition to bright, colorful visuals and happy sounding music to express the story. 
 
 How will your translation achieve this?
 
-### Project 2
+I think through an abstract visualization that the main tone and feeling of the story of The Secret Garden can be communicated. The main character, represented by a circle, will change in mood from sad to happy - and this will be shown with a color change from grey to yellow. The surroundings will change from black and grey to colorful , Springtime colors as the music changes from minor to major. 
 
+## Project 2
+
+I would like to visualize a JSON data source relating to my Spotify playlist. OR somehow visualize a JSON data source related to horoscopes/astrology. 
 
 Short concept descriptions and drawings of potential directions.
 Drawings should describe any movement or interaction in the program.
 
-Answer:
-Who is the user?
+Who is the user? 
+
+Someone interested in seeing data visualization for music consumption. 
+
 What do you want them to experience?
+
+Curiosity, and the experience of visualizing data which is normally not thought about or apparent. 
+
 How will your translation achieve this?
 
+Visually mapping listening habits, amd showing which artists are listened to, as well as songs and albums. 
 
-### Project 3
+Image
+
+![img](Images/FourShapesStatic.png)
 
 
-Short concept descriptions and drawings of potential directions 
-Drawings should describe any movement or interaction in the program.
+## Project 3
 
-Answer: 
-Who is the user?
-What do you want them to experience?
+I would like to do a gamified version of The Secret Garden. This would involve the main character having to find the key, and the gate, and putting the key into the gate of the secret garden. This could still be fairly abstract. I would like it to be more about the experience of transforming from a world of grey to one of color. 
+
+Who is the user? A game player, artist, someone who is intrigued by the story of The Secret Garden. 
+
+What do you want them to experience? The novelty of finding a key, and finding the "Secret" garden, so some element of hunting and finding easter eggs. The transition from grey darkness to colorful Springtime, flowers and the garden and transforming the characters level of health from depleted to healthy or changing colors.
+
 How will your translation achieve this?
+
+Maybe I could incorporate illustrations as images for the background images to illustrate the different scenes and tonal shifts.
+
+Image
+
+![img](Images/FourShapesStatic.png)
 
 ---
 
