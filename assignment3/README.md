@@ -4,37 +4,30 @@ Project Conceptual Descriptions & Drawings
 
 ## Project 1 : The Secret Garden
 
-An abstracted visualization of the story of The Secret Garden, in two simple scenes. 
+An abstracted visualization of the story of The Secret Garden, in a few simple scenes.
 
-Scene 1: The first background is dark with a grey and black color palette. I want to make the whole project abstract, due to my novice coding skills. The main character is represented by a circle which is grey to represent her illness and mood. The circle goes through (or up to) a gate. Ominous or minor music plays.
+The first background is dark with a grey and black color palette, dark clouds, ominous illustration. I want to make the whole project abstract, due to my novice coding skills, so I think it would be interesting to try to tell the story primarily through color and abstract shapes. 
 
-Image
+The main character is represented by a circle, which starts out as grey to represent her illness and mood. The circle finds a door/gate scene, and a view through a keyhole reveals a world of colorful abstract shapes. The ominous or minor music playing in the dark grey world transforms to a world of color and uplifting music. 
 
-![img](Images/FourShapesStatic.png)
+![img](Images/Sketches0.png)
 
-Image
+![img](Images/Sketches1.png)
 
-![img](Images/FourShapesStatic.png)
+![img](Images/Sketches2.png)
 
-Scene 2: In the second scene, the circle representing the main character has gone through the gate into the secret garden. There are colorful flowers (abstract shapes) and blue sky in the garden. The music playing changes from something minor to something major. The main character turns from grey to yellow to show that nature and the garden have healed her. 
 
-Image
+The circle representing the main character has gone through the gate into the secret garden. There are colorful flowers (abstract shapes) and blue sky there. The main character turns from grey to yellow to show that nature and the garden have healed her. 
 
-![img](Images/FourShapesStatic.png)
-
-Image
-
-![img](Images/FourShapesStatic.png)
-
-Who is the user? 
+_*Who is the user?*_
 
 The user could be a child, or anyone who is interested in an abstract visual telling of a children's story through basic shapes. 
 
-What do you want them to experience? 
+_*What do you want them to experience?*_ 
 
 I want the user to experience the feeling of healing and transformation that the character in The Secret Garden experiences. In the story, the main character and her friend are both ill, and suffering. When they seek out the garden, being in nature helps them begin to heal, and when they finally enter the garden, they are rejuvinated and return to happiness and health. I want the experience of dark, grey colors and minor music to transition to bright, colorful visuals and happy sounding music to express the story. 
 
-How will your translation achieve this?
+_*How will your translation achieve this?*_
 
 I think through an abstract visualization that the main tone and feeling of the story of The Secret Garden can be communicated. The main character, represented by a circle, will change in mood from sad to happy - and this will be shown with a color change from grey to yellow. The surroundings will change from black and grey to colorful , Springtime colors as the music changes from minor to major. 
 
