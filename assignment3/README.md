@@ -16,8 +16,9 @@ The main character is represented by a circle, which starts out as grey to repre
 
 ![img](Images/Sketches2.png)
 
-
 The circle representing the main character has gone through the gate into the secret garden. There are colorful flowers (abstract shapes) and blue sky there. The main character turns from grey to yellow to show that nature and the garden have healed her. 
+
+![img](Images/Sketches3.png)
 
 _*Who is the user?*_
 
