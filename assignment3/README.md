@@ -57,17 +57,31 @@ I don't truly understand what is possible, but it would be nice to be able to cl
 
 I would like to do a gamified version of The Secret Garden. This would involve the main character having to find the key, and the gate, and putting the key into the gate of the secret garden. This could still be fairly abstract. I would like it to be more about the experience of transforming from a world of grey to one of color. 
 
-Who is the user? A game player, artist, someone who is intrigued by the story of The Secret Garden. 
+_*Who is the user?*_
 
-What do you want them to experience? The novelty of finding a key, and finding the "Secret" garden, so some element of hunting and finding easter eggs. The transition from grey darkness to colorful Springtime, flowers and the garden and transforming the characters level of health from depleted to healthy or changing colors.
+A game player, a kid, anyone who is interested in the story of The Secret Garden illustrated in an abstracted way. 
 
-How will your translation achieve this?
+-*What do you want them to experience?*_
+
+The novelty of finding a key, and finding the garden. I want there to be an element of hunting and finding easter eggs. The transition from grey darkness to colorful Springtime, flowers and the garden and transforming the characters level of health from depleted to healthy along with showing that through changing colors from grey to bright colors.
+
+_*How will your translation achieve this?*_
 
 Maybe I could incorporate illustrations as images for the background images to illustrate the different scenes and tonal shifts.
 
-Image
 
-![img](Images/FourShapesStatic.png)
+
+
+![img](Images/Sketches6.png)
+
+![img](Images/Sketches7.png)
+
+![img](Images/Sketches8.png)
+
+![img](Images/Sketches4.png)
+
+![img](Images/Sketches9.png)
+
 
 ---
 
@@ -75,9 +89,7 @@ Create a new project which displays 4 active or inactive elements you might use 
 
 In setup() set your framerate to 60 fps
 
-Show each drawing for 2 seconds in a slideshow using ofGetFrameNum and the c++ modulo operator
-
-Include a static and animated screenshot in your .md for all projects from here on.
+Show each drawing for 2 seconds in a slideshow using ofGetFrameNum and the c++ modulo 
 
 Submit the url of the github directory to canvas
 
