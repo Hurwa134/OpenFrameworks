@@ -55,22 +55,19 @@ I don't truly understand what is possible, but it would be nice to be able to cl
 
 ## Project 3
 
-I would like to do a gamified version of The Secret Garden. This would involve the main character having to find the key, and the gate, and putting the key into the gate of the secret garden. This could still be fairly abstract. I would like it to be more about the experience of transforming from a world of grey to one of color. 
+I would like to do a gamified version of my concept for the first project, which is an abstract artistic interpretation of The Secret Garden. The game would involve the user finding a key of some kind, as well as a gate with a keyhole which they use to open the door to enter the garden.  I would like it to be more about the experience of transforming from a world of grey, with weeping willow trees, and ominous music to one of bright color and upbeat music. 
 
 _*Who is the user?*_
 
 A game player, a kid, anyone who is interested in the story of The Secret Garden illustrated in an abstracted way. 
 
--*What do you want them to experience?*_
+_*What do you want them to experience?*_
 
 The novelty of finding a key, and finding the garden. I want there to be an element of hunting and finding easter eggs. The transition from grey darkness to colorful Springtime, flowers and the garden and transforming the characters level of health from depleted to healthy along with showing that through changing colors from grey to bright colors.
 
 _*How will your translation achieve this?*_
 
-Maybe I could incorporate illustrations as images for the background images to illustrate the different scenes and tonal shifts.
-
-
-
+Maybe I could incorporate illustrations as images for the background images to illustrate the different scenes and tonal shifts. In the dark world scenes, before the character finds the garden, I'd love to incorporate images of weeping willows, or black and white photography somehow with illustration. 
 
 ![img](Images/Sketches6.png)
 
@@ -82,27 +79,18 @@ Maybe I could incorporate illustrations as images for the background images to i
 
 ![img](Images/Sketches9.png)
 
-
 ---
 
-Create a new project which displays 4 active or inactive elements you might use in your story using basic shape primitives. These can be people, animals, trees, or any object you will need. Even if your story does not contain any characters with faces, one of the elements above should have a face (for now).
-
-In setup() set your framerate to 60 fps
-
-Show each drawing for 2 seconds in a slideshow using ofGetFrameNum and the c++ modulo 
-
-Submit the url of the github directory to canvas
-
-
-Example of four shapes:
-
-Video 
-
-[![Alt text](https://img.youtube.com/vi/watch?v=dBIn5VasY2o.jpg)](https://www.youtube.com/watch?v=dBIn5VasY2o)
-
-Image
+Example of four primative shapes:
 
 ![img](Images/FourShapesStatic.png)
+
+[![Alt text](https://img.youtube.com/vi/dBIn5VasY2o/0.jpg)](https://www.youtube.com/watch?v=dBIn5VasY2o)
+
+
+
+
+
 
 
 
