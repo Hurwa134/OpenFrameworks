@@ -83,7 +83,7 @@ Maybe I could incorporate illustrations as images for the background images to i
 
 Example of four primative shapes:
 
-![img](Images/Assignment3)
+! [img](Images/Assignment3.png)
 
 [![Alt text](https://img.youtube.com/vi/IU7X2o4nbGs/0.jpg)](https://www.youtube.com/watch?v=IU7X2o4nbGs)
 
