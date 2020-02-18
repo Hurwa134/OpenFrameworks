@@ -81,7 +81,9 @@ Maybe I could incorporate illustrations as images for the background images to i
 
 ---
 
-Example of four primative shapes:
+Example of primitive shape exmaples for project 1:
+
+The shape in the middle is an abstract "flower" (flower head and stem.) The moving ball represents the main character who walks along a path to find the garden. 
 
 ![img](Images/Assignment3.png)
 
