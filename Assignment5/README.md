@@ -11,6 +11,8 @@ Starting at each change, the sound file of seagulls plays.
 
 ### Screenshots
 
+! [img](Images/)
+
 ![img](Images/Image1.png)
 
 ![img](Images/Image2.png)
