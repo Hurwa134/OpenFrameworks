@@ -24,7 +24,9 @@ Starting at each change, the sound file of seagulls plays.
 
 ### Link to YouTube Video
 
-[![openFrameworks Assignment5](https://www.youtube.com/vi/6fi0eimWlKw/0.jpg)](https://www.youtube.com/watch?v=6fi0eimWlKw)
+
+
+[![Assignment 5 Video](https://img.youtube.com/vi/6fi0eimWlKw/0.jpg)](https://www.youtube.com/watch?v=6fi0eimWlKw)
 
 
 
