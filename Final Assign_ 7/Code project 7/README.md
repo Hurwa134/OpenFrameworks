@@ -13,10 +13,10 @@ This is my UI with sliders and buttons for the expressions assignment. There is 
 
 ![img](Images/color3.PNG)
 
-![img](Images/  .PNG)
 
 ### Video
 
-[![Alt text](https://img.youtube.com/vi/cvZ8vIRlb1Y/0.jpg)](https://www.youtube.com/watch?v=cvZ8vIRlb1Y)
+[![Alt text](https://img.youtube.com/vi/iToTMSeNK48/0.jpg)](https://www.youtube.com/watch?v=iToTMSeNK48)
+
 
 
