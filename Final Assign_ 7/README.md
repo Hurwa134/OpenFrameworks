@@ -6,18 +6,17 @@ This is a UI with sliders and buttons for the expressions assignment. There is a
 
 ### Images 
 
+![img](Images/happy.PNG)
+
 ![img](Images/color1.PNG)
+
+![img](Images/angry.PNG)
 
 ![img](Images/color2.PNG)
 
 ![img](Images/color3.PNG)
 
-![img](Images/ .PNG)
-
 ### Video
 
-[![Alt text](https://img.youtube.com/vi/iToTMSeNK48
-/0.jpg)](https://www.youtube.com/watch?v=iToTMSeNK48
-)
 
-
+[![Alt text](https://img.youtube.com/vi/iToTMSeNK48/0.jpg)](https://www.youtube.com/watch?v=iToTMSeNK48)
