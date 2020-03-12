@@ -6,15 +6,15 @@ This is a UI with sliders and buttons for the expressions assignment. There is a
 
 ### Images 
 
-![img](Images/happy.PNG)
+![img](/Images/happy.PNG)
 
-![img](Images/color1.PNG)
+![img](/Images/color1.PNG)
 
-![img](Images/angry.PNG)
+![img](/Images/angry.PNG)
 
-![img](Images/color2.PNG)
+![img](/Images/color2.PNG)
 
-![img](Images/color3.PNG)
+![img](/Images/color3.PNG)
 
 ### Video
 
