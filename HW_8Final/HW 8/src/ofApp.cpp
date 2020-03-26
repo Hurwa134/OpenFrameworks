@@ -18,7 +18,7 @@ int current;
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    std::string url = "https://api.darksky.net/forecast/f85d8af7c1a3411894fc25245330f89f/40.6971494,-74.2598655";
+    std::string url = "https://api.darksky.net/forecast/YourKey/40.6971494,-74.2598655";
     
     // Now parse the JSON
     bool parsingSuccessful = root.open(url);
