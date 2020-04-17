@@ -2,6 +2,8 @@
 
 ### Description of Project Concept
 
+Disclaimer: It's only half done! 
+
 My project conept is an abstracted visualization of the story of The Secret Garden. I want to make the whole project somewhat abstract, to tell the story primarily through color and somewhat warped or abstracted shapes.
 
 The main character is represented by a circle, which starts out as grey, to represent her illness and mood.  The first scene will have a dark grey and black background and color palette. It will include dark clouds, and ominous illustration.
@@ -42,7 +44,7 @@ Estimation of my potential shortcomings in this project. So far, it is coming al
 
 [![Alt text](https://img.youtube.com/vi/YBuITsGM0H0/0.jpg)](https://www.youtube.com/watch?v=YBuITsGM0H0)
 
-The URL of the YoutTube Video: https://www.youtube.com/watch?v=YBuITsGM0H0
+The URL of the YouTube Video: https://www.youtube.com/watch?v=YBuITsGM0H0
 
 
 
