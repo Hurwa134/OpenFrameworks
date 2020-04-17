@@ -33,10 +33,10 @@ void ofApp::update() {
     noise.freqG.set(0.5, 0.5);
     noise.freqB.set(0.5,0.5);
     noise.speed.set(0.5, 0.5, 0.5);
-    noise.mul.set(1.0, 0.5, 0.5);
+    noise.mul.set(1.0, 0.5, 0.6);
     noise.add.set(0.5, 0.5, 0.5);
-    noise.colorR.set(0.5, 0.5, 0.5);
-    noise.colorG.set(0.5, 0.5, 0.5);
+    noise.colorR.set(0.5, 0.8, 0.5);
+    noise.colorG.set(0.8, 0.8, 0.5);
     noise.colorB.set(0.5, 0.5, 0.5);
     noise.alpha = 1.0;
 }
@@ -90,7 +90,7 @@ void ofApp::introScene(){
 
 
 void ofApp::sceneOne(){
-    ofBackground(255, 120, 140);
+    ofBackground(40, 41, 40);
     //clouds, grey trees, mansion, horizontal path
     //movingthing
     ofSetColor(160,160,160);
@@ -106,7 +106,7 @@ void ofApp::sceneOne(){
 }
 
 void ofApp::sceneTwo(){
-     ofBackground(80, 120, 80);
+     ofBackground(118, 122, 122);
     //this sets the ball at the center of screen
     movement = 0;
     //add color to keyhole
@@ -125,7 +125,7 @@ void ofApp::sceneTwo(){
 }
 
 void ofApp::sceneThree(){
-     ofBackground(140, 80, 140);
+     ofBackground(19, 168, 61);
     //Garden, with blue sky, yellow sun, green trees, flowers, yellow path
     //movingthing
     ofSetColor(255,165,0);

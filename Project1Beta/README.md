@@ -25,18 +25,24 @@ Process question: What is the easiest way to add these illustrated shapes and el
 Estimation of my potential shortcomings in this project. So far, it is coming along as I hope for it to. I think the tone and general arc of the story are being expressed well through the use of color, shapes, and sound. It could potentially become too abstract, and in that sense it might not make sense in terms of a story to someone who doesn’t know what the goal of this project is or to someone who is not familiar with the story of The Secret Garden. 
 
 
-### 2 minimum Images 
+### Images 
 
-![img](Images/Project1.PNG)
+![img](Images/pic0.PNG)
 
-![img](Images/Project2.PNG)
+![img](Images/pic1.PNG)
+
+![img](Images/pic2.PNG)
+
+![img](Images/pic3.PNG)
+
+![img](Images/pic4.PNG)
 
 
 ### Video
 
-[![Alt text](https://img.youtube.com/vi/cvZ8vIRlb1Y/0.jpg)](https://www.youtube.com/watch?v=cvZ8vIRlb1Y)
+[![Alt text](https://img.youtube.com/vi/YBuITsGM0H0/0.jpg)](https://www.youtube.com/watch?v=YBuITsGM0H0)
 
-The URL of the YoutTube Video:
+The URL of the YoutTube Video: https://www.youtube.com/watch?v=YBuITsGM0H0
 
 
 
