@@ -1,11 +1,11 @@
 
 ### Project 1: Story
 
-## The Secret Garden
+## The Secret Garden (Updated)
 
 # Description of Project Concept
 
-My project conept is an abstracted visualization of the story of The Secret Garden. I want to make the whole project somewhat abstract, to tell the story primarily through color and somewhat warped or abstracted shapes.
+My project concept is an abstracted visualization of the story of The Secret Garden. I want to make the whole project somewhat abstract, to tell the story primarily through color and somewhat warped or abstracted shapes.
 
 The main character is represented by a circle, which starts out as grey, to represent her illness and mood.  The first scene will have a dark grey and black background and color palette. It will include dark clouds, and ominous illustration.
 
