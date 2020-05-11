@@ -17,23 +17,15 @@ The project's ideal audience is anyone who is intrigued by data relating to weat
 
 How could I extrapolate on this idea of visualizing the moon and sun relating to weather in London, and maybe involve more of the solar system, like full constellations, stars, and other planets in an artistic way? 
 
-### Images 
+### Images
 
 ![img](Images/pic1.PNG)
 
-![img](Images/pic2.PNG)
-
-![img](Images/pic3.PNG)
-
-![img](Images/pic4.PNG)
-
-![img](Images/pic5.PNG)
-
-![img](Images/pic6.PNG)
 
 ### Video
 
-[![Alt text](https://img.youtube.com/vi/9O_83RU1fMs&t=3s/0.jpg)](https://www.youtube.com/watch?v=9O_83RU1fMs&t=3s)
+
+[![Assignment 5 Video](https://img.youtube.com/vi/9O_83RU1fMs&t=3s/0.jpg)](https://www.youtube.com/watch?v=9O_83RU1fMs&t=3s)
 
 The URL of the YouTube Video: https://www.youtube.com/watch?v=9O_83RU1fMs&t=3s
 
