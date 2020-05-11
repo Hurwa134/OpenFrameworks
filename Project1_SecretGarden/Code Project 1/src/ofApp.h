@@ -41,5 +41,8 @@ class ofApp : public ofBaseApp{
     TextBlockAlignment  alignment;  //constants for controlling state
     
     ofImage keyhole;
-    
+    ofImage tree;
+    ofImage cloud;
+    ofImage weepingwillow;
+    ofImage sun;
 };

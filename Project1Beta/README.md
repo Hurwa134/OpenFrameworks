@@ -1,8 +1,6 @@
-# Project One Beta
+# Project One: Story
 
 ### Description of Project Concept
-
-Disclaimer: It's only half done! 
 
 My project conept is an abstracted visualization of the story of The Secret Garden. I want to make the whole project somewhat abstract, to tell the story primarily through color and somewhat warped or abstracted shapes.
 

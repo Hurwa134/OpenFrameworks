@@ -15,10 +15,15 @@ float windSpeed;
 float x;
 int current;
 bool Night;
+ofTrueTypeFont OrbitronExtraBold;
+
 
 
 //--------------------------------------------------------------
 void ofApp::setup(){
+    
+    OrbitronExtraBold.load("Orbitron-ExtraBold.ttf",30);
+    
     std::string url = "https://api.darksky.net/forecast/f85d8af7c1a3411894fc25245330f89f/40.6971494,-74.2598655";
     ofSetCircleResolution(100);
     // Now parse the JSON
@@ -68,6 +73,8 @@ std::ostringstream stream2;
 //--------------------------------------------------------------
 void ofApp::draw(){
     ofSetColor(200,200,0); // greenish
+    
+    OrbitronExtraBold.drawString("Celestial London",ofGetWidth()/2-70, 100);
    
     current = time(NULL);
     std::string currentTime = "Current epoch time is " + ofToString(current) + ".";

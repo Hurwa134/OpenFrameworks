@@ -14,6 +14,10 @@ void ofApp::setup(){
     ofSetCircleResolution(50);
     
     keyhole.load("keyhole.png");
+    tree.load("tree.png");
+    cloud.load("cloud.png");
+    weepingwillow.load("weepingwillow.png");
+    sun.load("sun.png");
     
     
     Title.init("SourceSansPro-Light.otf", 50);
@@ -92,6 +96,7 @@ void ofApp::introScene(){
 void ofApp::sceneOne(){
     ofBackground(40, 41, 40);
     //clouds, grey trees, mansion, horizontal path
+    weepingwillow.draw(ofGetWidth()/2-600,60);
     //movingthing
     ofSetColor(160,160,160);
     movement += -5;
@@ -132,6 +137,8 @@ void ofApp::sceneThree(){
     movement += 3;
     ofPoint movingthing(ofGetWidth()/2 + movement, 600);
     ofDrawCircle(movingthing,70);
+    tree.draw(ofGetWidth()/2-700,400);
+    sun.draw(ofGetWidth()/2+200,2);
     
     if (scenetwoSound.isPlaying()==true) {
         scenetwoSound.stop();
