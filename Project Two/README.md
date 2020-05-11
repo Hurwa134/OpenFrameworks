@@ -1,4 +1,4 @@
-## Project Two: Visualisation
+## Project Two: Visualisation of Celestial London
 
 ### Project Concept Description
 
