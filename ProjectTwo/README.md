@@ -21,12 +21,20 @@ How could I extrapolate on this idea of visualizing the moon and sun relating to
 
 ![img](Images/pic1.PNG)
 
+![img](Images/pic2.PNG)
+
+![img](Images/pic3.PNG)
+
+![img](Images/pic4.PNG)
+
+![img](Images/pic5.PNG)
+
+![img](Images/pic6.PNG)
+
 
 ### Video
 
-
-[![Assignment 5 Video](https://img.youtube.com/vi/9O_83RU1fMs&t=3s/0.jpg)](https://www.youtube.com/watch?v=9O_83RU1fMs&t=3s)
-
 The URL of the YouTube Video: https://www.youtube.com/watch?v=9O_83RU1fMs&t=3s
 
+[![Assignment 5 Video](https://img.youtube.com/vi/9O_83RU1fMs&t=3s/0.jpg)](https://www.youtube.com/watch?v=9O_83RU1fMs&t=3s)
 
